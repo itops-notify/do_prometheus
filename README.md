@@ -11,7 +11,7 @@ For pre-built binaries please take a look at the releases.
 https://github.com/metalmatze/digitalocean_exporter/releases
 
 To deploy directly onto digitalocean, click the button below.  
-[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/metalmatze/digitalocean_exporter/tree/master)
+[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/itops-notify/do_prometheus/tree/master)
 
 #### Docker
 
