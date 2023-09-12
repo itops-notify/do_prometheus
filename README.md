@@ -96,7 +96,7 @@ Please check [example.rules.yaml](example.rules.yml).
 You obviously should get the code
 
 ```bash
-go get -u github.com/metalmatze/digitalocean_exporter
+go get -u github.com/itops-notify/do_prometheus
 ```
 
 This should already put a binary called `digitalocean_exporter` into `$GOPATH/bin`.
